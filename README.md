@@ -1,6 +1,7 @@
 <a href="https://epilot.cloud">
   <img src=".github/epilot_logo.svg" alt="Epilot Logo" title="Epilot" align="right" height="50" />
 </a>
+
 # @epilot/eslint-config
 
 This packages is a set of eslint rules, recommended for all node.js Projects (including serverless lambda)
